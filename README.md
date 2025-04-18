@@ -1,0 +1,2 @@
+# Darbariku_izsniegsanas_sistema
+darbarīku izsniegšanas sistēma
