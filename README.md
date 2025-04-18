@@ -1,2 +1,5 @@
 # Darbariku_izsniegsanas_sistema
-darbarīku izsniegšanas sistēma
+*Admin:*
+
+Admin konts: Edgars@gmail.com
+Parole: Mango1234!
